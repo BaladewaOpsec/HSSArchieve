@@ -1,11 +1,11 @@
-Hike Safety System
+**Hike Safety System
+**
 
-
-    Introduction
+    **Introduction**
 
   Safety System developed by Lora Ops (CSM). The main purpose of safety tools is for the hiker and even for SAR applications. This system is cheap, simple, and efficient. Beside it use for hiking, HSS can be applied to outdoor activity, tactical or field operation with its ability to operate on offgrid area within a 10 km+ range up to 20km (No Barricade).
 
-    Methods
+    **Methods**
 
   HSS uses the LoRa Module on 433Mhz frequency and ESP32/S3 as the main microcontroller.
 
@@ -16,5 +16,5 @@ V1HSS. It uses our phone as a secondary device; ESP32 via BLE will communicate w
 
 
 
-          “This Repository is Archieve, There is no HSS source code or how it really works.”
-
+**          “This Repository is Archieve, There is no HSS source code or how it really works.”
+**
